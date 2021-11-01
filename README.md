@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lastnameisgold
+- 👋 Hi, I’m Fernando
 - 👀 I’m interested in design tokens
 - 🌱 I’m currently learning how to create token sets on the Figma Tokens Plugin
 - 💞️ I’m looking to collaborate on design systems
