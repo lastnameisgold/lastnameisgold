@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @lastnameisgold
+- 👀 I’m interested in design tokens
+- 🌱 I’m currently learning how to create token sets on the Figma Tokens Plugin
+- 💞️ I’m looking to collaborate on design systems
+- 📫 How to reach me fernando.dorado@pfizer.com or me@fdorado.com
+
+<!---
+lastnameisgold/lastnameisgold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
