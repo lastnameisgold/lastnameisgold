@@ -2,7 +2,7 @@
 - 👀 I’m interested in design tokens
 - 🌱 I’m currently learning how to create token sets on the Figma Tokens Plugin
 - 💞️ I’m looking to collaborate on design systems
-- 📫 How to reach me fernando.dorado@pfizer.com or me@fdorado.com
+- 📫 Drop me a line me@fdorado.com
 
 <!---
 lastnameisgold/lastnameisgold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
